@@ -1,0 +1,19 @@
+body {
+  padding-top: 70px;
+}
+
+.jumbotron {
+  text-align: center;
+  background: url("https://images.unsplash.com/photo-1473923377535-0002805f57e8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d239ac0e409e18cf74ace503c491714f&auto=format&fit=crop&w=2069&q=80");
+  background-size: cover;
+  background-position: 50% 55%;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+               0px 8px 13px rgba(0,0,0,0.1),
+               0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.img-thumbnail {
+  margin-bottom: 20px;
+}
